@@ -164,7 +164,6 @@ section {
 
 .section-title {
   font-size: 55px;
-  display: inline-block;
   color: #024e76;
   margin-bottom: 35px;
   padding: 0 100px 20px 100px;
@@ -256,7 +255,7 @@ section {
   font-size: 32px;
 }
 
-.contact-info p, 
+.contact-info p,
 .contact-info address {
   margin: 20px 0;
   line-height: 1.5;
