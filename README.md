@@ -1,4 +1,4 @@
-# run-buddy2.0
+# Run Buddy Inc.
 Revised New Run Buddy Project
 
 # Run Buddy
